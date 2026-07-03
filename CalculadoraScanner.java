@@ -3,7 +3,7 @@ package projetos;
 import java.util.Scanner;
 
 public class CalculadoraScanner {
-     static void main(String[] args) {
+     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Qual operação você deseja?");
