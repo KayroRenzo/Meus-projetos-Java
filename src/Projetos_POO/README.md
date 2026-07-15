@@ -14,31 +14,6 @@ Esta pasta contém meus projetos desenvolvidos aplicando **Programação Orienta
 
 ---
 
-## 📁 Estrutura
-Projetos_POO/
-├── sistemaBiblioteca/
-│ ├── controller/
-│ ├── model/
-│ ├── view/
-│ └── src/
-│ └── Main.java
-├── sistemaBancario/
-│ ├── controller/
-│ ├── exceptions/
-│ ├── model/
-│ ├── view/
-│ └── src/
-│ └── Main.java
-└── lojaOnline/
-├── controller/
-├── model/
-├── view/
-└── src/
-└── Main.java
-
-
----
-
 ## 🛠️ Conceitos Aplicados
 
 | Conceito | Onde foi aplicado |
