@@ -1,6 +1,6 @@
 # Projetos Em Java
 
-Este repositório contém 5 projetos desenvolvidos em Java durante meus estudos. Cada projeto foi criado para praticar diferentes conceitos da linguagem, desde o básico até estruturas mais complexas.
+Este repositório contém 5 dos meus primeiros projetos desenvolvidos em Java durante meus estudos. Cada projeto foi criado para praticar diferentes conceitos da linguagem, desde o básico até estruturas mais complexas.
 
 ---
 
