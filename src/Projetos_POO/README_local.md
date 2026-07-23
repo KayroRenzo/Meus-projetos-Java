@@ -12,6 +12,7 @@ Esta pasta contém meus projetos desenvolvidos aplicando **Programação Orienta
 | **Sistema Bancario** | Sistema de gerenciamento bancário com contas e transações | POO, Herança, Exceções, MVC |
 | **Loja Online** | Sistema de gerenciamento de loja com produtos e carrinho | POO, Collections, MVC |
 | **MiniCRM** | Sistema de gerenciamento de relacionamento com clientes (CRM) | POO, MVC, Collections |
+| **Gestão de Eventos** | Sistema completo para gerenciar eventos, participantes e inscrições | POO, Herança, Polimorfismo, Enums, Exceções, MVC |
 
 ---
 
@@ -20,12 +21,12 @@ Esta pasta contém meus projetos desenvolvidos aplicando **Programação Orienta
 | Conceito | Onde foi aplicado |
 |----------|-------------------|
 | **Encapsulamento** | Todos os projetos (atributos privados, getters/setters) |
-| **Herança** | Sistema Bancário (ContaCorrente, ContaPoupanca) |
-| **Polimorfismo** | Sistema Bancário (métodos sobrescritos) |
+| **Herança** | Sistema Bancário (ContaCorrente, ContaPoupanca) e Gestão de Eventos (ParticipanteEstudante, ParticipanteEmpresa, ParticipanteIndividual, ParticipanteVip) |
+| **Polimorfismo** | Sistema Bancário e Gestão de Eventos (métodos sobrescritos) |
 | **Collections** | Todos os projetos (HashSet, HashMap, ArrayList) |
 | **MVC** | Todos os projetos (controller/model/view) |
-| **Exceções** | Sistema Bancário (SaldoInsuficiente) |
-| **Enumerações** | MiniCRM (StatusCliente) |
+| **Exceções** | Sistema Bancário (SaldoInsuficiente) e Gestão de Eventos (várias exceções personalizadas) |
+| **Enumerações** | MiniCRM (StatusCliente) e Gestão de Eventos (CategoriaEvento, TipoEvento, StatusInscricao, TipoParticipante) |
 
 ---
 
@@ -49,5 +50,10 @@ java Main
 
 # MiniCRM
 cd miniCrm/src
+javac Main.java
+java Main
+
+# Gestão de Eventos
+cd GestaoDeEventos/src
 javac Main.java
 java Main
