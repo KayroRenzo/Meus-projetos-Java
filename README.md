@@ -1,3 +1,6 @@
+# ☕ Meus Projetos Java
+
+Repositório com projetos Java organizados por nível de complexidade, desde conceitos básicos até aplicações com Programação Orientada a Objetos e padrão MVC.
 
 ---
 
@@ -67,6 +70,40 @@ Sistema para gerenciar produtos, estoque e vendas.
 **Tecnologias:** Java, POO, Collections, MVC
 
 [▶️ Ver mais](src/Projetos_POO/lojaOnline/README.md)
+
+---
+
+### 🎯 Gestão de Eventos
+
+Sistema completo para gerenciar eventos, participantes e inscrições.
+
+**Funcionalidades:**
+- ✅ Cadastrar, editar e excluir eventos
+- ✅ Cadastrar diferentes tipos de participantes (Estudante, Empresa, Individual, VIP)
+- ✅ Gerenciar inscrições em eventos
+- ✅ Validar categorias e tipos de eventos
+- ✅ Sistema de status para inscrições (PENDENTE, CONFIRMADA, CANCELADA)
+- ✅ Tratamento de exceções personalizadas
+
+**Tecnologias:** Java, POO, Herança, Polimorfismo, Enums, Exceções Personalizadas, MVC
+
+[▶️ Ver mais](src/Projetos_POO/GestaoDeEventos/README.md)
+
+---
+
+### 🏢 Mini CRM
+
+Sistema básico de CRM para gerenciamento de clientes e interações.
+
+**Funcionalidades:**
+- ✅ Cadastrar, editar e excluir clientes
+- ✅ Registrar interações com clientes
+- ✅ Gerenciar status dos clientes
+- ✅ Histórico de interações
+
+**Tecnologias:** Java, POO, Collections, MVC
+
+[▶️ Ver mais](src/Projetos_POO/miniCrm/README.md)
 
 ---
 
